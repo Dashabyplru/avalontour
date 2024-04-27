@@ -1,0 +1,166 @@
+
+/* font-family: Inter, sans-serif;*/
+
+.about{
+	height: 400vh;
+	/*background-image:linear-gradient(rgba(30, 75, 115, 1), rgba(255, 255, 255, 0)), 
+	url(https://itmouse.by/upload/photos/may_2023/pbt_0040_23.jpg);*/
+	/*background-color: rgba(255,0,0,0.5);*/
+	background-color: #a4e8ec;
+	margin: 0;
+	padding: 0;
+}
+.top{
+	font-family: Inter, sans-serif;
+	color:#24b3a7;
+	font-size: 4vw;
+	text-align: center;
+}
+img{
+	width: 40vw;
+	height: 50vh;
+	float: right;
+	padding-right: 5vw;
+	padding-top: 15vh;
+}
+.vorota{
+	float:right;
+	padding-right: 9vw;
+	padding-top: 18vh;
+}
+.tourAbout{
+	font-family: Inter, sans-serif;
+	font-size: 1.5vw;
+	width: 40vw;
+	height: 50vh;
+	color:white;
+	padding-left: 8vh;
+	padding-top: 17vh;
+}
+.Minsk{
+	background-image:linear-gradient(rgba(0, 0, 0, 1), rgba(255, 255, 255, 0)), 
+	url("../images/vorota.jpg");
+	height: 100vh;
+	background-repeat: no-repeat;
+	width: 100vw;
+	background-size: 100%;
+}
+
+.Vitebsk{
+	background-image:linear-gradient(rgba(0, 0, 0, 1), rgba(255, 255, 255, 0)), 
+	url("../images/vitebsk_ratusha.jpg");
+	height: 100vh;
+	background-repeat: no-repeat;
+	width: 100vw;
+	background-size: 100%;
+}
+.Mashina{
+	background-image:linear-gradient(rgba(0, 0, 0, 1), rgba(255, 255, 255, 0)), 
+	url("../images/vitebsk_ratusha.jpg");
+	height: 100vh;
+	background-repeat: no-repeat;
+	width: 100vw;
+	background-size: 100%;
+}
+.Polock{
+	background-image:linear-gradient(rgba(0, 0, 0, 1), rgba(255, 255, 255, 0)), 
+	url("../images/polock.jpg");
+	height: 100vh;
+	background-repeat: no-repeat;
+	width: 100vw;
+	background-size: 100%;
+}
+.ygolki{
+	height: 90vh;
+	background-color: #a4e8ec;
+	margin: 0;
+	padding: 0;
+}
+.mySlides {
+	padding-left: 20vw;
+}
+
+.slideshow-container {
+  width: 100vw;
+  height: 95vh;
+  position: relative;
+  margin: 0;
+  padding: 0;
+}
+
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-family: Inter, sans-serif;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+.top1{
+	font-family: Inter, sans-serif;
+	color:#17689b;
+	font-size: 3vw;
+	width: 80vw;
+}	
+.my{
+  	display: block;
+  	margin-left: 25vw;
+  	margin-right: 25vw;
+  	width: 50%;
+}
+
+.company{
+	height: 100vh;
+	background-color: #a4e8ec;
+	margin: 0;
+	padding: 0;
+}
+.text2{
+	font-family: Inter, sans-serif;
+	font-size: 0.93vw;
+	width: 40vw;
+	height: 50vh;
+	color:black;
+	padding-left: 8vh;
+	padding-top: 2vh;
+}
+.numbers{
+	height: 100vh;
+	background-color: #a4e8ec;
+	margin: 0;
+	padding: 0;
+}
+.zifra div{
+	float: left;
+	padding-top: 7vh;
+	padding-left: 6.3vw;
+    width: 20vw;
+}
+
+.top2{
+	font-family: Inter, sans-serif;
+	color: black;
+	font-size: 2.5vw;
+	text-align: center;
+}
+.ab{
+	font-family: Inter, sans-serif;
+	color: black;
+	font-size: 1.95vw;
+}
